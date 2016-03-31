@@ -1,0 +1,14 @@
+public class Kaefig {
+
+	private String Name;
+	private int AnzahlLoewen;
+	private Loewe Platz1;
+	private Loewe Platz2;
+
+	public Kaefig(String string, int AnzahlLowen) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public int getAnzahlLoewen() {
+		return AnzahlLoewen;
+	}
